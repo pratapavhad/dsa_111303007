@@ -1,0 +1,23 @@
+W-type is not a dynamic typing app like others.
+It lets you type, then checks the whole thing.
+
+Use touch typing.
+In Each type test you have to type minimum 50 % of the text, then only speed analysis will be done.
+In Each type test, you have to have an accuracy of minimum 80%.
+
+YOU MAY END TYPING IN BETWEEN, JUST ENSURE YOU HAVE TYPED 50%.
+After you press enter on each line, the previous line cannot be accessed.
+So, always make an habit, to check the current line for errors, fix them, and then move forward.
+
+To end typing, press Ctrl + D on a NEWLINE.
+ALWAYS REMEMBER, THE MORE YOU TYPE, MORE REAL OF YOUR SPEED IS REFLECTED.
+
+For registered users, points are awarded as 80% speed + 20% accuracy.
+
+Online sites  give small paragraphs, for type practising. However, such small texts
+do not reflect our speed. Our speed is determined by for how long we can mantain that
+, which also happens to be the criterion for Guiness world records.
+
+ALL FAST TYPISTS WERE SLOW SOMEDAY....
+Happy typing and Happy LInuxing...
+Visit www.launchpad.net/abhilashmhaisne for more info.

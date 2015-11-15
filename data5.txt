@@ -1,0 +1,15 @@
+The FSF maintains a list of "high priority projects" to which, 
+the Foundation claims that "there is a vital need to draw the free software community's attention". 
+The FSF considers these projects "important because computer users, 
+are continually being seduced into using non-free software, 
+because there is no adequate free replacement."
+Previous projects highlighted as needing work included the Free Java implementations, 
+GNU Classpath, and GNU Compiler for Java, 
+which ensure compatibility for the Java part of OpenOffice.org, 
+and the GNOME desktop environment.
+The effort has been criticized for either not instigating active development,
+or for being slow at the work being done,  
+even after certain projects were added to the list.
+The FSF maintains a "Respects Your Freedom hardware certification" program. 
+To be granted certification, a product must use 100% Free Software, 
+allow user installation of modified software, be free of back doors and conform with several other requirements.

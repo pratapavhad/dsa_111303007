@@ -1,0 +1,7 @@
+
+1st compile time.c : cc time.c -o tim
+Then rename time.c as time.source or anything. (Because in next step, time.c should not be compiled)
+FInally cc *.c
+
+I have included a script for doing first two steps : tim.sh.
+
